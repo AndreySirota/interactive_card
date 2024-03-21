@@ -1,0 +1,14 @@
+{
+    "title": "Город Рогачёв, ул Кирова, на берегу р. Друть",
+    "imgs": [
+        "https://kudago.com/media/images/place/d0/f6/d0f665a80d1d8d110826ba797569df02.jpg",
+        "https://kudago.com/media/images/place/66/23/6623e6c8e93727c9b0bb198972d9e9fa.jpg",
+        "https://kudago.com/media/images/place/64/82/64827b20010de8430bfc4fb14e786c19.jpg",
+    ],
+    "description_short": "Памятный знак",
+    "description_long": "<p> Стела установлена в 1989 году в честь форсирования 102 стрелковой дивизии р. Друть. Операция «Багратион». В 2017 году была установлена новая стела. </p>",
+    "coordinates": {
+        "lat": 53.082107,
+        "lng": 30.053239
+    }
+}
