@@ -1,0 +1,14 @@
+{
+    "title": "Деревня Вишенька",
+    "imgs": [
+        "https://kudago.com/media/images/place/d0/f6/d0f665a80d1d8d110826ba797569df02.jpg",
+        "https://kudago.com/media/images/place/66/23/6623e6c8e93727c9b0bb198972d9e9fa.jpg",
+        "https://kudago.com/media/images/place/64/82/64827b20010de8430bfc4fb14e786c19.jpg",
+    ],
+    "description_short": "Братская могила № 3844",
+    "description_long": "<p> Место военного полкового кладбища. Здесь захоронены  воины, погибшие или умершие от ран в 1943-1944 г.г. в боях  с немецко-фашистскими захватчиками при освобождении Рогачёвского района. Обелиск установлен в 1966 году. </p>",
+    "coordinates": {
+        "lat": 52.974164,
+        "lng": 30.300996
+    }
+}
