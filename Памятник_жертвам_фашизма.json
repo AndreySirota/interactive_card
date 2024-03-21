@@ -1,0 +1,14 @@
+{
+    "title": "Деревня Фалевичи",
+    "imgs": [
+        "https://kudago.com/media/images/place/d0/f6/d0f665a80d1d8d110826ba797569df02.jpg",
+        "https://kudago.com/media/images/place/66/23/6623e6c8e93727c9b0bb198972d9e9fa.jpg",
+        "https://kudago.com/media/images/place/64/82/64827b20010de8430bfc4fb14e786c19.jpg",
+    ],
+    "description_short": "Памятник жертвам фашизма",
+    "description_long": "<p> В 1943 году немецкие каратели окружили деревню, расстреляли и сожгли живыми 235 жителей. В память о жертвах фашизма в 1965 году был установлен памятник-скульптура воина и партизанки.</p>",
+    "coordinates": {
+        "lat": 53.199189,
+        "lng": 29.856211
+    }
+}
